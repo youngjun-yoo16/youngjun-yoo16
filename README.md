@@ -1,4 +1,4 @@
-![pfp](img src="https://github.com/youngjun-yoo16/Images/blob/main/yellow_white.png?raw=true")
+![pfp](/Images/blob/main/yellow_white.png?raw=true")
 ### Hi there 👋 I'm Youngjun! :smiley:
 
 <!--
