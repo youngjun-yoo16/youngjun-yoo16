@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 * :hatching_chick: [Connect with me on LinkedIn](https://www.linkedin.com/in/youngjun-yoo/)
 
-[![Youngjun Yoo's github stats](https://github-readme-stats.vercel.app/api?username=youngjun-yoo16&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/youngjun-yoo16/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun-yoo16&layout=compact&hide=MakeFile&theme=nightowl)](https://github.com/youngjun-yoo16/github-readme-stats)
+[![Youngjun Yoo's github stats](https://github-readme-stats.vercel.app/api?username=youngjun-yoo16&count_private=true&show_icons=true&theme=blueberry)](https://github.com/youngjun-yoo16/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun-yoo16&layout=compact&hide=MakeFile&theme=blueberry)](https://github.com/youngjun-yoo16/github-readme-stats)
 
