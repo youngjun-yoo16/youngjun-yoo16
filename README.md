@@ -1,5 +1,5 @@
 ![](https://github.com/youngjun-yoo16/Images/blob/main/yellow_white_final_bigsubtitle.png?raw=true)
-### Hi there 👋 I'm Youngjun! :smiley:
+## Hi there 👋 I'm Youngjun! :smiley:
 
 <!--
 **youngjun-yoo16/youngjun-yoo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
