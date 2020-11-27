@@ -1,3 +1,4 @@
+![pfp](C:\Users\USER\Desktop\Purple and White Math Tutor Bordered LinkedIn Banner)
 ### Hi there 👋 I'm Youngjun! :smiley:
 
 <!--
