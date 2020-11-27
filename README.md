@@ -18,5 +18,5 @@ Welcome to my GitHub! I'm a Computer Science student at Purdue University double
 
 Currently, I develop for @Hack-the-Future and @PurdueSIGAI
 
-* [Connect with me on LinkedIn](https://www.linkedin.com/in/youngjun-yoo/)
+* :hatching_chick: [Connect with me on LinkedIn](https://www.linkedin.com/in/youngjun-yoo/)
 
