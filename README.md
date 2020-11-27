@@ -1,4 +1,4 @@
-![pfp](img src="C:\Users\USER\Desktop\Purple and White Math Tutor Bordered LinkedIn Banner")
+![pfp](img src="C:\Users\USER\Desktop\2.png")
 ### Hi there 👋 I'm Youngjun! :smiley:
 
 <!--
