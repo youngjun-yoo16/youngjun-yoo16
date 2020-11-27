@@ -18,5 +18,7 @@ Welcome to my GitHub! I'm a Computer Science student at Purdue University double
 
 Currently, I develop for @Hack-the-Future and @PurdueSIGAI
 
+I am also working as a research assistant at @[Duality Lab - ECE@Purdue](https://github.com/PurdueDualityLab)
+
 * :hatching_chick: [Connect with me on LinkedIn](https://www.linkedin.com/in/youngjun-yoo/)
 
