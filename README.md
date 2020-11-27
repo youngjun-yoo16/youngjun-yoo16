@@ -1,4 +1,4 @@
-![](/Images/yellow_white.png)
+![](https://github.com/youngjun-yoo16/Images/blob/main/yellow_white.png?raw=true)
 ### Hi there 👋 I'm Youngjun! :smiley:
 
 <!--
