@@ -1,4 +1,4 @@
-![pfp](/Images/blob/main/yellow_white.png?raw=true")
+![](/Images/yellow_white.png)
 ### Hi there 👋 I'm Youngjun! :smiley:
 
 <!--
