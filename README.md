@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Welcome to my GitHub! I'm a Computer Science student double majoring in Mathematics at Purdue University**
+**Welcome to my GitHub! I'm a Computer Science student double majoring in Mathematics at Purdue University.**
 
 **Currently, I develop for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).**
 
