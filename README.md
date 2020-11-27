@@ -1,4 +1,4 @@
-![](https://github.com/youngjun-yoo16/Images/blob/main/yellow_white_glitch.png?raw=true)
+![](https://github.com/youngjun-yoo16/Images/blob/main/yellow_white_final.png?raw=true)
 ### Hi there 👋 I'm Youngjun! :smiley:
 
 <!--
