@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Youngjun Yoo! :smiley:
+### Hi there 👋 I'm Youngjun! :smiley:
 
 <!--
 **youngjun-yoo16/youngjun-yoo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my GitHub! I'm a Computer Science student at Purdue University double majoring with Mathematics.
+**Welcome to my GitHub! I'm a Computer Science student at Purdue University double majoring with Mathematics.**
 
-Currently, I develop for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).
+**Currently, I develop for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).**
 
-I am also working as a research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).
+**I am also working as a research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).**
 
 * :hatching_chick: [Connect with me on LinkedIn](https://www.linkedin.com/in/youngjun-yoo/)
 
