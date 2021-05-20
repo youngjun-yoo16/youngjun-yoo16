@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Welcome to my GitHub! I'm a Computer Science Honors student minoring in Mathematics at Purdue University.**
+**Welcome to my GitHub! I'm a Computer Science Honors student minoring in Mathematics at Purdue University, West Lafayette.**
 
 **I'm also an incoming Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/).**
 
-**In the past, I developed for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).**
+**In the past, I have developed for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).**
 
 **I have also worked as an undergraduate research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).**
 
