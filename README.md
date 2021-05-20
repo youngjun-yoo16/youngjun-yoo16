@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 **I'm also an incoming Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/).**
 
-**Currently, I develop for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).**
+**In the past, I developed for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).**
 
-**I also worked as a research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).**
+**I have also worked as an undergraduate research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).**
 
 * **:hatching_chick: [Visit my Website for more Information!](https://youngjun-yoo16.github.io/)** 
 
