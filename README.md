@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 -->
 **Welcome to my GitHub! I'm a Computer Science Honors student minoring in Mathematics at Purdue University.**
 
+**I am an incoming Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/).**
+
 **Currently, I develop for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).**
 
-**I'm also working as a research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).**
+**I also worked as a research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).**
 
 * **:hatching_chick: [Visit my Website for more Information!](https://youngjun-yoo16.github.io/)** 
 
