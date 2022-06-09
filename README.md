@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Welcome to my GitHub! I'm a Computer Science Honors student minoring in Mathematics at Purdue University, West Lafayette.**
+**Welcome to my GitHub! I'm a Computer Science Honors student at Purdue University, West Lafayette.**
 
 **Last summer, I worked as a Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/).**
 
