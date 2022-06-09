@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 **I have also worked as an undergraduate research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).**
 
-* **:hatching_chick: [Visit my Website for more Information!](https://youngjun-yoo16.github.io/)** 
+* **:hatching_chick: [Visit my website for more information!](https://youngjun-yoo16.github.io/)** 
 
 [![Youngjun Yoo's github stats](https://github-readme-stats.vercel.app/api?username=youngjun-yoo16&count_private=true&show_icons=true&theme=nightowl)](https://github.com/youngjun-yoo16/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun-yoo16&layout=compact&hide=MakeFile&theme=nightowl)](https://github.com/youngjun-yoo16/github-readme-stats)
