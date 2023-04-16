@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 **Welcome to my GitHub! I'm a Computer Science Honors student at Purdue University, West Lafayette.**
 
-**Last summer, I worked as a Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/).**
+**In 2021 summer, I worked as a Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/).**
 
-**This summer, I will again be returning as a Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/)!**
+**This summer, I will again return as a Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/)!**
 
 **In the past, I have developed for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).**
 
