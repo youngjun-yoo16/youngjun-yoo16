@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 **Last summer, I worked as a Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/).**
 
+**This summer, I will again be returning as a Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/)!**
+
 **In the past, I have developed for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).**
 
 **I have also worked as an undergraduate research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).**
