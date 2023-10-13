@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 **I'm currently a part of the [**@Hack-the-Future**](https://github.com/Hack-the-Future), as a developer in the YWCA Billing team.**
 
-**This summer, I had the opportunity to return to [**Fasoo**](https://en.fasoo.com/) as a Software Engineering Intern!**
+**During this summer, I was grateful to return to [**Fasoo**](https://en.fasoo.com/) as a Software Engineering Intern!**
 
-**In summer 2021, I worked Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/).**
+**In the summer of 2021, I had the opportunity to work as a Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/).**
 
-**In the past, I have developed for [**@Hack-the-Future**](https://github.com/Hack-the-Future) in Niches Land Trust team.**
+**In the past, I've had the pleasure of contributing to the Niches Land Trust team as a backend developer within [**@Hack-the-Future**](https://github.com/Hack-the-Future).**
 
 **I have also worked as an undergraduate research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).**
 
