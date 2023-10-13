@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 -->
 **Welcome to my GitHub! I'm a Computer Science Honors student at Purdue University, West Lafayette.**
 
-**This summer, I had the opportunity to return to [**Fasoo**](https://en.fasoo.com/) as a Software Engineering Intern.**
+**I'm currently a part of the [**@Hack-the-Future**](https://github.com/Hack-the-Future), as a developer in the YWCA Billing team.**
 
-**In summer 2021, I worked Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/)!**
+**This summer, I had the opportunity to return to [**Fasoo**](https://en.fasoo.com/) as a Software Engineering Intern!**
 
-**In the past, I have developed for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@PurdueSIGAI**](https://github.com/PurdueSIGAI).**
+**In summer 2021, I worked Software Engineering Intern at [**Fasoo**](https://en.fasoo.com/).**
+
+**In the past, I have developed for [**@Hack-the-Future**](https://github.com/Hack-the-Future) in Niches Land Trust team.**
 
 **I have also worked as an undergraduate research assistant at [**@Duality Lab - ECE@Purdue**](https://github.com/PurdueDualityLab).**
 
