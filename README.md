@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 * **:hatching_chick: [Visit my website for more information!](https://youngjun-yoo16.github.io/)** 
 
 ![](https://raw.githubusercontent.com/youngjun-yoo16/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/youngjun-yoo16/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/youngjun-yoo16/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/youngjun-yoo16/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
