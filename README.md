@@ -29,4 +29,7 @@ Here are some ideas to get you started:
 
 * **:hatching_chick: [Visit my website for more information!](https://youngjun-yoo16.github.io/)** 
 
-[![Youngjun Yoo's github stats](https://github-readme-stats.vercel.app/api?username=youngjun-yoo16&count_private=true&show_icons=true&theme=nightowl)](https://github.com/youngjun-yoo16/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun-yoo16&layout=compact&hide=MakeFile&theme=nightowl)](https://github.com/youngjun-yoo16/github-readme-stats)
+![](https://raw.githubusercontent.com/youngjun-yoo16/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/youngjun-yoo16/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/youngjun-yoo16/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/youngjun-yoo16/github-stats/master/generated/languages.svg#gh-light-mode-only)
