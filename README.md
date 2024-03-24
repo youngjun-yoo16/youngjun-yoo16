@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 🙋‍♂️ Bio
 
 <div align="center">
-    Hi there 👋 I am <b>Youngjun Yoo</b>. I am a junior at Purdue CS.
+    Hi there 👋 I am <b>Youngjun Yoo</b>. I am a sophomore at Purdue CS.
 </div>
 
 
