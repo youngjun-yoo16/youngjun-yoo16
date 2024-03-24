@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 
 ### 💻 Relative Experience
-* *Undergraduate Teaching Assistant - Programming in C* @ [Purdue University Department of Computer Science](https://www.cs.purdue.edu/) (2024.01 ~ Current)
-* *Frontend Developer* @ [YWCA Billing Team @ Hack the Future](https://htfpurdue.org/) (2023.09 ~ Current)
+* *Undergraduate Teaching Assistant* @ [Purdue University Department of Computer Science](https://www.cs.purdue.edu/) (2024.01 ~ Current)
+* *Frontend Developer* @ [YWCA Billing @ Hack the Future](https://htfpurdue.org/) (2023.09 ~ Current)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (2023.06 ~ 2023.08)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (2021.06 ~ 2021.08)
 * *Backend Developer* @ [NICHES Land Trust @ Hack the Future](https://htfpurdue.org/) (2020.09 ~ 2021.05)
