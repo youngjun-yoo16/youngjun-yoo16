@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 * *Undergraduate Teaching Assistant* - Systems Programming @ [Purdue CS](https://www.cs.purdue.edu/) (Fall 2024)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (2024.06 ~ Current)
 * *Undergraduate Teaching Assistant* - Programming in C @ [Purdue CS](https://www.cs.purdue.edu/) (2024.01 ~ 2024.05)
-* *Frontend Developer* @ [YWCA Billing @ Hack the Future](https://htfpurdue.org/) (2023.09 ~ 2024.04)
+* *Frontend Developer* - YWCA Billing @ [ Hack the Future](https://htfpurdue.org/) (2023.09 ~ 2024.04)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (2023.06 ~ 2023.08)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (2021.06 ~ 2021.08)
-* *Backend Developer* @ [NICHES Land Trust @ Hack the Future](https://htfpurdue.org/) (2020.09 ~ 2021.05)
+* *Backend Developer* - NICHES Land Trust @ [Hack the Future](https://htfpurdue.org/) (2020.09 ~ 2021.05)
 
 
 ### 🎓 Education
