@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### 💻 Relative Experience
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (2024.06 ~ Current)
-* *Undergraduate Teaching Assistant* - Programming in C @ [Purdue University Department of Computer Science](https://www.cs.purdue.edu/) (2024.01 ~ 2024.05)
+* *Undergraduate Teaching Assistant* - Programming in C @ [Purdue Univ. Dept. of Computer Science](https://www.cs.purdue.edu/) (2024.01 ~ 2024.05)
 * *Frontend Developer* @ [YWCA Billing @ Hack the Future](https://htfpurdue.org/) (2023.09 ~ 2024.04)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (2023.06 ~ 2023.08)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (2021.06 ~ 2021.08)
