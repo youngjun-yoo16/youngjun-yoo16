@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 * *Frontend Developer* @ [ Hack the Future](https://htfpurdue.org/) `[2023.09 ~ 2024.04]`
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) `[2023.06 ~ 2023.08]`
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) `[2021.06 ~ 2021.08]`
-* *Backend Developer* @ [Hack the Future](https://htfpurdue.org/) `[2020.09 ~ 2021.05)]`
+* *Backend Developer* @ [Hack the Future](https://htfpurdue.org/) `[2020.09 ~ 2021.05]`
 
 
 ### 🎓 Education
