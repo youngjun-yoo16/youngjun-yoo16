@@ -42,17 +42,17 @@ Here are some ideas to get you started:
 
 
 ### 💻 Relative Experience
-* *Undergraduate Teaching Assistant* - Systems Programming @ [Purdue CS](https://www.cs.purdue.edu/) `[Fall 2024]`
-* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) `[2024.06 ~ Current]`
-* *Undergraduate Teaching Assistant* - Programming in C @ [Purdue CS](https://www.cs.purdue.edu/) `[2024.01 ~ 2024.05]`
-* *Frontend Developer* @ [ Hack the Future](https://htfpurdue.org/) `[2023.09 ~ 2024.04]`
-* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) `[2023.06 ~ 2023.08]`
-* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) `[2021.06 ~ 2021.08]`
-* *Backend Developer* @ [Hack the Future](https://htfpurdue.org/) `[2020.09 ~ 2021.05]`
+* *Undergraduate Teaching Assistant* - Systems Programming @ [Purdue CS](https://www.cs.purdue.edu/) (`Fall 2024`)
+* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2024.06 ~ Current`)
+* *Undergraduate Teaching Assistant* - Programming in C @ [Purdue CS](https://www.cs.purdue.edu/) (`2024.01 ~ 2024.05`)
+* *Frontend Developer* @ [ Hack the Future](https://htfpurdue.org/) (`2023.09 ~ 2024.04`)
+* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2023.06 ~ 2023.08`)
+* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2021.06 ~ 2021.08`)
+* *Backend Developer* @ [Hack the Future](https://htfpurdue.org/) (`2020.09 ~ 2021.05`)
 
 
 ### 🎓 Education
-* B.S. in [Computer Science Honors](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA `[2020.08 ~ Current]`
+* B.S. in [Computer Science Honors](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ Current`)
 
 [0]: https://youngjun-yoo16.github.io/
 
