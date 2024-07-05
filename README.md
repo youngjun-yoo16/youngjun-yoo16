@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 ### 🎓 Education
-* B.S. in [Computer Science Honors](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (2020.08 ~ Current)
+* B.S. in [Computer Science Honors](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA `[2020.08 ~ Current]`
 
 [0]: https://youngjun-yoo16.github.io/
 
