@@ -41,15 +41,17 @@ Here are some ideas to get you started:
 </div>
 
 
-### 💻 Relative Experience
+### 💻 Work Experience
 * *Undergraduate Teaching Assistant* - CS 25200: Systems Programming @ [Purdue CS](https://www.cs.purdue.edu/) (`Fall 2024`)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2024.06 ~ Current`)
 * *Undergraduate Teaching Assistant* - CS 24000: Programming in C @ [Purdue CS](https://www.cs.purdue.edu/) (`2024.01 ~ 2024.05`)
-* *Frontend Developer* @ [ Hack the Future](https://htfpurdue.org/) (`2023.09 ~ 2024.04`)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2023.06 ~ 2023.08`)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2021.06 ~ 2021.08`)
-* *Backend Developer* @ [Hack the Future](https://htfpurdue.org/) (`2020.09 ~ 2021.05`)
 
+### 🚀 Campus Involvement
+* *Incoming Team Lead* @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024`)
+* *Frontend Developer* @ [Hack the Future](https://htfpurdue.org/) (`2023.09 ~ 2024.05`)
+* *Backend Developer* @ [Hack the Future](https://htfpurdue.org/) (`2020.09 ~ 2021.05`)
 
 ### 🎓 Education
 * B.S. in [Computer Science Honors](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ Current`)
