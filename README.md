@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * **:hatching_chick: [Visit my website for more information!](https://youngjun-yoo16.github.io/)** -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/youngjun-yoo/)](https://www.linkedin.com/in/youngjun-yoo/)
-[![Web Badge](https://img.shields.io/badge/-Web-yellow?style=flat-square&logo=GoogleChrome&logoColor=white&link=https://youngjun-yoo16.github.io/)](https://youngjun-yoo16.github.io/)
+[![Web Badge](https://img.shields.io/badge/-Web-yellow?style=flat-square&logo=GoogleChrome&logoColor=white&link=https://youngjun-yoo16.github.io/&target="_blank")](https://youngjun-yoo16.github.io/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihochoi&title=Hits&edge_flat=true&count_bg=%23DB6264)](https://youngjun-yoo16.github.io/)
 
 ---
