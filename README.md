@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 
 ### 💻 Work Experience
-* *Undergraduate Teaching Assistant* - CS 25200: Systems Programming @ [Purdue CS](https://www.cs.purdue.edu/) (`Fall 2024`)
-* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2024.06 ~ Present`)
+* *Undergraduate Teaching Assistant* - CS 25200: Systems Programming @ [Purdue CS](https://www.cs.purdue.edu/) (`2024.08 ~ Present`)
+* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2024.06 ~ 2024.08`)
 * *Undergraduate Teaching Assistant* - CS 24000: Programming in C @ [Purdue CS](https://www.cs.purdue.edu/) (`2024.01 ~ 2024.05`)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2023.06 ~ 2023.08`)
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2021.06 ~ 2021.08`)
