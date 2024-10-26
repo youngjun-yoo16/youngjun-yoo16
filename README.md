@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 * *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`2021.06 ~ 2021.08`)
 
 ### 🚀 Campus Involvement
-* *Incoming Team Lead* @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024`)
+* *Team Lead* @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024 ~ Present`)
 * *Frontend Developer* @ [Hack the Future](https://htfpurdue.org/) (`2023.09 ~ 2024.05`)
 * *Backend Developer* @ [Hack the Future](https://htfpurdue.org/) (`2020.09 ~ 2021.05`)
 
