@@ -41,19 +41,20 @@ Here are some ideas to get you started:
 </div>
 
 
-### 💻 Work Experience
-* *Undergraduate Teaching Assistant* - CS 34800: Information Systems @ [Purdue CS](https://www.cs.purdue.edu/) (`Spring 2025`)
-* *Undergraduate Teaching Assistant* - CS 24000: Programming in C @ [Purdue CS](https://www.cs.purdue.edu/) (`Spring 2025`)
-* *Undergraduate Teaching Assistant* - CS 25200: Systems Programming @ [Purdue CS](https://www.cs.purdue.edu/) (`Fall 2024`)
-* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024 (2024.06 ~ 2024.08)`)
-* *Undergraduate Teaching Assistant* - CS 24000: Programming in C @ [Purdue CS](https://www.cs.purdue.edu/) (`Spring 2024`)
-* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023 (2023.06 ~ 2023.08)`)
-* *Software Engineering Intern* @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021 (2021.06 ~ 2021.08)`)
+### 💻 Internship Experience
+- Software Engineering Intern, AI & Frontend @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024`)
+- Software Engineering Intern, Frontend @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023`)
+- Software Engineering Intern, Security @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021`)
+
+### ✏️ Undergraduate Teaching Assistant, Purdue CS
+- CS 34800: Information Systems (`Spring 2025`)
+- CS 24000: Programming in C (`Spring 2024 & Spring 2025`)
+- CS 25200: Systems Programming (`Fall 2024`)
 
 ### 🚀 Campus Involvement
-* *Team Lead* @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024 ~ Present`)
-* *Frontend Developer* @ [Hack the Future](https://htfpurdue.org/) (`2023.09 ~ 2024.05`)
-* *Backend Developer* @ [Hack the Future](https://htfpurdue.org/) (`2020.09 ~ 2021.05`)
+* Team Lead @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024 ~ Present`)
+* Frontend Developer @ [Hack the Future](https://htfpurdue.org/) (`2023.09 ~ 2024.05`)
+* Backend Developer @ [Hack the Future](https://htfpurdue.org/) (`2020.09 ~ 2021.05`)
 
 ### 🎓 Education
 * B.S. in [Computer Science Honors](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ Present`)
