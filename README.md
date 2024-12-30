@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 - Software Engineering Intern, Security @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021`)
 
 ### ✏️ Undergraduate Teaching Assistant, Purdue CS
-- CS 34800: Information Systems (`Spring 2025`)
-- CS 24000: Programming in C (`Spring 2024 & Spring 2025`)
-- CS 25200: Systems Programming (`Fall 2024`)
+- CS 34800: [Information Systems](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs348.html) (`Spring 2025`)
+- CS 24000: [Programming in C](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs240.html) (`Spring 2024 & Spring 2025`)
+- CS 25200: [Systems Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs252.html) (`Fall 2024`)
 
 ### 🚀 Campus Involvement
 * Team Lead @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024 ~ Present`)
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 * Backend Developer @ [Hack the Future](https://htfpurdue.org/) (`2020.09 ~ 2021.05`)
 
 ### 🎓 Education
-* B.S. in [Computer Science Honors](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ Present`)
+* B.S. in Computer Science Honors(https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ Present`)
 
 [0]: https://youngjun-yoo16.github.io/
 
