@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 - CS 25200: [Systems Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs252.html) (`Fall 2024`)
 
 ### 🚀 Campus Involvement
-* Team Lead @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024 ~ Present`)
-* Frontend Developer @ [Hack the Future](https://htfpurdue.org/) (`2023.09 ~ 2024.05`)
-* Backend Developer @ [Hack the Future](https://htfpurdue.org/) (`2020.09 ~ 2021.05`)
+* Team Lead @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024 ~ Spring 2025`)
+* Frontend Developer @ [Hack the Future](https://htfpurdue.org/) (`Fall 2023 ~ Spring 2024`)
+* Backend Developer @ [Hack the Future](https://htfpurdue.org/) (`Fall 2020 ~ Spring 2021`)
 
 ### 🎓 Education
 * B.S. in [Computer Science Honors](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ Present`)
