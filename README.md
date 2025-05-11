@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 ### 💻 Internship Experience
 - Incoming Software Engineering Intern @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
+- Software Engineering Intern @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
 - Software Engineering Intern, AI & Frontend @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024`)
 - Software Engineering Intern, Frontend @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023`)
 - Software Engineering Intern, Security @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021`)
