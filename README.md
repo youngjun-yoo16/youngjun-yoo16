@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 ### 💻 Internship Experience
 - Incoming Software Engineer Intern @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
-- Software Engineer Intern — Core Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
-- Software Engineer Intern — Conversational AI @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024`)
-- Software Engineer Intern — Internal Tools @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023`)
-- Software Engineer Intern — Application Security @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021`)
+- Software Engineer Intern, Core Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
+- Software Engineer Intern, Conversational AI @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024`)
+- Software Engineer Intern, Internal Tools @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023`)
+- Software Engineer Intern, Application Security @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021`)
 
 ### ✏️ Undergraduate Teaching Assistant, Purdue CS
 - CS 34800: [Information Systems](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs348.html) (`Spring 2025`)
