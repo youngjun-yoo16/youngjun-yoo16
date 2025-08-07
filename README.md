@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 * Backend Developer @ [Hack the Future](https://htfpurdue.org/) (`Fall 2020 ~ Spring 2021`)
 
 ### 🎓 Education
-* B.S. in [Computer Science Honors](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ Present`)
+* B.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ Present`)
 
 [0]: https://youngjun-yoo16.github.io/
 
