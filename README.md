@@ -49,9 +49,11 @@ Here are some ideas to get you started:
 - Software Engineer Intern, Application Security @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021`)
 
 ### ✏️ Undergraduate Teaching Assistant, Purdue CS
+
 - CS 34800: [Information Systems](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs348.html) (`Spring 2025`)
-- CS 24000: [Programming in C](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs240.html) (`Spring 2024 & Spring 2025`)
 - CS 25200: [Systems Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs252.html) (`Fall 2024`)
+- CS 24000: [Programming in C](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs240.html) (`Spring 2024 & Spring 2025`)
+- CS 18000: [Problem Solving & Object-Oriented Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs180.html) (`Fall 2025`)
 
 ### 🚀 Campus Involvement
 * Team Lead @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024 ~ Spring 2025`)
