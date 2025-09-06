@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 - `CS 18000`: [Problem Solving & Object-Oriented Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs180.html) (`Fall 2025`)
 
 ### 🚀 Campus Involvement
+* Operations Lead @ [Hack the Future](https://htfpurdue.org/) (`Fall 2025 ~ Present`)
 * Team Lead @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024 ~ Spring 2025`)
 * Frontend Developer @ [Hack the Future](https://htfpurdue.org/) (`Fall 2023 ~ Spring 2024`)
 * Backend Developer @ [Hack the Future](https://htfpurdue.org/) (`Fall 2020 ~ Spring 2021`)
