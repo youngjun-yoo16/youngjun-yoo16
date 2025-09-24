@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 
 ### 💻 Internship Experience
-- Software Engineer Intern, Fullstack @ [FoodFluence.ai](https://www.foodfluence.ai/) (`Fall 2025`)
+- Software Engineer Intern, Full Stack @ [FoodFluence.ai](https://www.foodfluence.ai/) (`Fall 2025`)
 - Software Engineer Intern, AI Agent @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
-- Software Engineer Intern, Core Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
+- Software Engineer Intern, Platform Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
 - Software Engineer Intern, Conversational AI @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024`)
 - Software Engineer Intern, Internal Tools @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023`)
 - Software Engineer Intern, Application Security @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021`)
