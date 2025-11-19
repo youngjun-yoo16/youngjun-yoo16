@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Internship Experience
+- Incoming Software Engineer Intern @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
 - Software Engineer Intern, Full Stack @ [FoodFluence.ai](https://www.foodfluence.ai/) (`Fall 2025`)
 - Software Engineer Intern, AI Agent @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
 - Software Engineer Intern, Platform Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
