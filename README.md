@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 🙋‍♂️ Bio
 
 <div align="center">
-    Hi there 👋 I am <b>Youngjun Yoo</b> 🙂 I am a senior at Purdue CS.
+    Hi there 👋 I am <b>Youngjun Yoo</b> 🙂 I am a senior in CS at Purdue and an incoming SWE Intern at LinkedIn.
 </div>
 
 
@@ -54,17 +54,17 @@ Here are some ideas to get you started:
 
 - `CS 34800`: [Information Systems](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs348.html) (`Spring 2025`)
 - `CS 25200`: [Systems Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs252.html) (`Fall 2024`)
-- `CS 24000`: [Programming in C](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs240.html) (`Spring 2024 & Spring 2025`)
+- `CS 24000`: [Programming in C](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs240.html) (`Spring 2024, Spring 2025, Spring 2026`)
 - `CS 18000`: [Problem Solving & Object-Oriented Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs180.html) (`Fall 2025`)
 
-### 🚀 Campus Involvement
-* Operations Lead @ [Hack the Future](https://htfpurdue.org/) (`Fall 2025 ~ Present`)
-* Team Lead @ [Hack the Future](https://htfpurdue.org/) (`Fall 2024 ~ Spring 2025`)
-* Frontend Developer @ [Hack the Future](https://htfpurdue.org/) (`Fall 2023 ~ Spring 2024`)
-* Backend Developer @ [Hack the Future](https://htfpurdue.org/) (`Fall 2020 ~ Spring 2021`)
+### 🚀 Campus Involvement @ [Hack the Future](https://htfpurdue.netlify.app/)
+* Internal Outreach Lead (`Fall 2025 ~ Present`)
+* Team Lead (`Fall 2024 ~ Spring 2025`)
+* Frontend Developer (`Fall 2023 ~ Spring 2024`)
+* Backend Developer (`Fall 2020 ~ Spring 2021`)
 
 ### 🎓 Education
-* B.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ Present`)
+* B.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ 2026.05`)
 
 [0]: https://youngjun-yoo16.github.io/
 
