@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 ### 🙋‍♂️ Bio
 
 <div align="center">
-    Hi there 👋 I am <b>Youngjun Yoo</b> 🙂 I am a senior in CS at Purdue and an incoming SWE Intern at LinkedIn.
+    Hi there 👋 I am <b>Youngjun Yoo</b> 🙂 <br/>
+    I am a senior in CS at Purdue and an incoming SWE [In]tern at LinkedIn for Summer 2026!
 </div>
 
 
