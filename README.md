@@ -59,12 +59,13 @@ Here are some ideas to get you started:
 - `CS 18000`: [Problem Solving & Object-Oriented Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs180.html) (`Fall 2025`)
 
 ### 🚀 Campus Involvement @ [Hack the Future](https://htfpurdue.netlify.app/)
-* Internal Outreach Lead (`Fall 2025 ~ Present`)
+* Internal Outreach Lead (`Fall 2025 ~ Spring 2026`)
 * Team Lead (`Fall 2024 ~ Spring 2025`)
 * Frontend Developer (`Fall 2023 ~ Spring 2024`)
 * Backend Developer (`Fall 2020 ~ Spring 2021`)
 
 ### 🎓 Education
+* M.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2026.08 ~ 2027.12`)
 * B.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ 2026.05`)
 
 [0]: https://youngjun-yoo16.github.io/
