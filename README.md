@@ -31,15 +31,14 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/youngjun-yoo/)](https://www.linkedin.com/in/youngjun-yoo/)
 [![Web Badge](https://img.shields.io/badge/-Web-yellow?style=flat-square&logo=GoogleChrome&logoColor=white&link=https://youngjun-yoo16.github.io/)](https://youngjun-yoo16.github.io/)
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihochoi&title=Hits&edge_flat=true&count_bg=%23DB6264)](https://youngjun-yoo16.github.io/) -->
-
----
-
-### 🙋‍♂️ Bio
-
-<div align="center">
+<!-- <div align="center">
     Hi there 👋 I am <b>Youngjun Yoo</b> 🙂 <br/>
     I am a senior in CS at Purdue and an incoming SWE [in]tern at LinkedIn for Summer 2026!
-</div>
+</div> -->
+
+<h1 align="center">
+  Hi, I'm Youngjun! <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="70" alt="Confused" align="middle">
+</h1>
 
 
 ### 💻 Internship Experience
