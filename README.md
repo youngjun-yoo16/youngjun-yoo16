@@ -40,6 +40,16 @@ Here are some ideas to get you started:
   Hi, I'm Youngjun! <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="70" alt="Confused" align="middle">
 </h1>
 
+<!-- ### 🍀 About Me
+- 💻 CS @ Purdue
+- 💼 Incoming SWE Intern @ LinkedIn (Summer 2026)
+- 💼 Prev. SWE Intern, AI Agent @ Samsung SDS (Summer 2025) & Full Stack @ FoodFluence AI (Fall 2025)
+- ✏️ Head TA @ CS 25200 (Systems Programming) & 3x TA @ CS 24000 (Programming in C)
+- ✏️ Prev. TA @ CS 34800 (Information Systems) & CS 18000 (Object-Oriented Programming)
+- 🚀 Campus Involvement: Internal Outreach Lead @ [Hack the Future](https://htfpurdue.netlify.app/) & Goalkeeper 🥅 @ [PKFC](https://www.youtube.com/@pkfc_boilerup)
+- 💡 Interests: Distributed Systems, AI Infra, Databases/Storage
+- ⚽ Hobbies: Soccer, Gym, Napping, and Traveling!
+- 📚 Relevant Courses: Computer Networks (Graduate), Compilers, Operating Systems, Analysis of Algorithms, Cloud Computing, Software Engineering, Embedded Systems, Systems Programming, Information Systems, Data Structures & Algorithms -->
 
 ### 💻 Internship Experience
 - Incoming Software Engineer Intern @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
