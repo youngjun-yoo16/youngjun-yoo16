@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 - 📚 Relevant Courses: Computer Networks (Graduate), Compilers, Operating Systems, Analysis of Algorithms, Cloud Computing, Software Engineering, Embedded Systems, Systems Programming, Information Systems, Data Structures & Algorithms -->
 
 ### 💻 Internship Experience
-- Incoming Software Engineer Intern @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
+- Incoming Software Engineer Intern, AI Systems @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
 - Software Engineer Intern, Full Stack @ [FoodFluence AI](https://www.foodfluence.ai/) (`Fall 2025`)
-- Software Engineer Intern, AI Agent @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
+- Software Engineer Intern, AI Infrastructure @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
 - Software Engineer Intern, Platform Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
 - Software Engineer Intern, Conversational AI @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024`)
 - Software Engineer Intern, Internal Tools @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023`)
