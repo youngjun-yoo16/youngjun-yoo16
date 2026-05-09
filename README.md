@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * **:hatching_chick: [Visit my website for more information!](https://youngjun-yoo16.github.io/)** -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/youngjun-yoo/)](https://www.linkedin.com/in/youngjun-yoo/)
-[![Web Badge](https://img.shields.io/badge/-Web-yellow?style=flat-square&logo=GoogleChrome&logoColor=white&link=https://youngjun-yoo16.github.io/)](https://youngjun-yoo16.github.io/)
+[![Web Badge](https://img.shields.io/badge/-Web-yellow?style=flat-square&logo=GoogleChrome&logoColor=white&link=https://youngjunyoo.com)](https://youngjunyoo.com)
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihochoi&title=Hits&edge_flat=true&count_bg=%23DB6264)](https://youngjun-yoo16.github.io/) -->
 <!-- <div align="center">
     Hi there 👋 I am <b>Youngjun Yoo</b> 🙂 <br/>
@@ -51,14 +51,24 @@ Here are some ideas to get you started:
 - ⚽ Hobbies: Soccer, Gym, Napping, and Traveling!
 - 📚 Relevant Courses: Computer Networks (Graduate), Compilers, Operating Systems, Analysis of Algorithms, Cloud Computing, Software Engineering, Embedded Systems, Systems Programming, Information Systems, Data Structures & Algorithms -->
 
+### 🍀 Snapshot
+- 💻 CS @ Purdue
+- 💼 Incoming SWE Intern @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
+  - Infra for Anomaly Detection: Agent State Management, LLM Inference, and Scalable Querying over the Economic Graph.
+- 💼 Previous SWE Intern @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
+  - Memory Subsystem for AI Agents with Context-Aware Adaptation.
+- ✏️ Previous Head TA @ `CS 25200` and 3x TA @ `CS 24000` 
+- 💡 Interests: Databases/Storage Systems, AI Infrastructure, Distributed Systems
+
+
 ### 💻 Internship Experience
-- Software Engineer Intern, AI Infrastructure @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
-- Software Engineer Intern, Full Stack @ [FoodFluence AI](https://www.foodfluence.ai/) (`Fall 2025`)
-- Software Engineer Intern, AI Infrastructure @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
-- Software Engineer Intern, Platform Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
-- Software Engineer Intern, Conversational AI @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024`)
-- Software Engineer Intern, Internal Tools @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023`)
-- Software Engineer Intern, Application Security @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021`)
+- SWE Intern, AI Infrastructure @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
+- SWE Intern, Full Stack @ [FoodFluence AI](https://www.foodfluence.ai/) (`Fall 2025`)
+- SWE Intern, AI Infrastructure @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
+- SWE Intern, Platform Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
+- SWE Intern, Conversational AI @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024`)
+- SWE Intern, Internal Tools @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023`)
+- SWE Intern, Application Security @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021`)
 
 ### ✏️ Undergraduate Teaching Assistant, Purdue CS
 
@@ -67,17 +77,25 @@ Here are some ideas to get you started:
 - `CS 24000`: [Programming in C](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs240.html) (`Spring 2024, Spring 2025, Spring 2026`)
 - `CS 18000`: [Problem Solving & Object-Oriented Programming](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs180.html) (`Fall 2025`)
 
-### 🚀 Campus Involvement @ [Hack the Future](https://htfpurdue.netlify.app/)
+### 📚 Relevant Coursework
+
+- Computer Networks (Graduate), Compilers, Operating Systems, Analysis of Algorithms, Cloud Computing, Software Engineering, Embedded Systems, Systems Programming, Information Systems, Data Structures & Algorithms, Computer Architecture
+
+### ⚽ Outside of Tech
+
+- Soccer, Gym, Napping, Traveling
+
+<!-- ### 🚀 Campus Involvement @ [Hack the Future](https://htfpurdue.netlify.app/)
 * Internal Outreach Lead (`Fall 2025 ~ Spring 2026`)
 * Team Lead (`Fall 2024 ~ Spring 2025`)
 * Frontend Developer (`Fall 2023 ~ Spring 2024`)
-* Backend Developer (`Fall 2020 ~ Spring 2021`)
+* Backend Developer (`Fall 2020 ~ Spring 2021`) -->
 
-### 🎓 Education
+<!-- ### 🎓 Education
 * M.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2026.08 ~ 2027.12`)
-* B.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ 2026.05`)
+* B.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ 2026.05`) -->
 
-[0]: https://youngjun-yoo16.github.io/
+[0]: https://youngjunyoo.com
 
 ![](https://raw.githubusercontent.com/youngjun-yoo16/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/youngjun-yoo16/github-stats/master/generated/languages.svg#gh-dark-mode-only)
