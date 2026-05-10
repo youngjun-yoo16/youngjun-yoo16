@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 
 
 ### 💻 Internship Experience
-- SWE Intern, AI Infrastructure @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
-- SWE Intern, Full Stack @ [FoodFluence AI](https://www.foodfluence.ai/) (`Fall 2025`)
-- SWE Intern, AI Infrastructure @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
+- SWE Intern, Anomaly Detection Infra @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
+- SWE Intern, Creator Platform @ [FoodFluence AI](https://www.foodfluence.ai/) (`Fall 2025`)
+- SWE Intern, AI Agent Memory Systems @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
 - SWE Intern, Platform Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
 - SWE Intern, Conversational AI @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024`)
 - SWE Intern, Internal Tools @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023`)
