@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ### 🍀 Snapshot
 - 💻 CS @ Purdue
-- 💼 Incoming SWE Intern @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
+- 💼 SWE Intern @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
   - Infra for Anomaly Detection: Agent State Management, LLM Inference, and Scalable Querying over the Economic Graph.
 - 💼 Previous SWE Intern @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
   - Memory Subsystem for AI Agents with Context-Aware Adaptation.
