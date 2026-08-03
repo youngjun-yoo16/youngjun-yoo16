@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Internship Experience
-- SWE Intern, Anomaly Detection Infra @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
+- SWE Intern, ML Infra @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
 - SWE Intern, Creator Platform @ [FoodFluence AI](https://www.foodfluence.ai/) (`Fall 2025`)
 - SWE Intern, AI Agent Memory Systems @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
 - SWE Intern, Platform Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
