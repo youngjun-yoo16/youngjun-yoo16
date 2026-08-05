@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### 🍀 Snapshot
 - 💻 CS @ Purdue
 - 💼 SWE Intern, ML Infra @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
-  - Infra for Anomaly Detection: Agent State Management, LLM Inference, and Scalable Querying over the Economic Graph.
+  - Anomaly Detection & Evaluation, LLM Inference, Graph ML, and ML Data Infrastructure.
 - 💼 Previous SWE Intern @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
   - Memory Subsystem for AI Agents with Context-Aware Adaptation.
 - ✏️ Previous Head TA @ `CS 25200` and 3x TA @ `CS 24000` 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - SWE Intern, ML Infra @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
 - SWE Intern, Creator Platform @ [FoodFluence AI](https://www.foodfluence.ai/) (`Fall 2025`)
 - SWE Intern, AI Agent Memory Systems @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
-- SWE Intern, Platform Infrastructure @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
+- SWE Intern, Platform Infra @ [TwinSketch](https://www.twinsketch.com/) (`Summer 2025`)
 - SWE Intern, Conversational AI @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2024`)
 - SWE Intern, Internal Tools @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2023`)
 - SWE Intern, Application Security @ [Fasoo Inc.](https://en.fasoo.com/) (`Summer 2021`)
