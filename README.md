@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 - 📚 Relevant Courses: Computer Networks (Graduate), Compilers, Operating Systems, Analysis of Algorithms, Cloud Computing, Software Engineering, Embedded Systems, Systems Programming, Information Systems, Data Structures & Algorithms -->
 
 ### 🍀 Snapshot
-- 💻 CS @ Purdue
-- 💼 SWE Intern, ML Infra @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
+- 💻 BS/MS CS @ Purdue
+- 💼 SWE Intern @ [LinkedIn](https://www.linkedin.com/) (`Summer 2026`)
   - Anomaly Detection & Evaluation, LLM Inference, Graph ML, and ML Data Infrastructure.
-- 💼 Previous SWE Intern @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
+- 💼 SWE Intern @ [Samsung SDS](https://www.samsungsds.com/us/index.html) (`Summer 2025`)
   - Memory Subsystem for AI Agents with Context-Aware Adaptation.
 - ✏️ Previous Head TA @ `CS 25200` and 3x TA @ `CS 24000` 
-- 💡 Interests: Databases/Storage Systems, AI Infrastructure, Distributed Systems
+- 💡 Interests: ML Systems, Databases, Distributed Systems
 
 
 ### 💻 Internship Experience
@@ -79,7 +79,8 @@ Here are some ideas to get you started:
 
 ### 📚 Relevant Coursework
 
-- Computer Networks (Graduate), Compilers, Operating Systems, Analysis of Algorithms, Cloud Computing, Software Engineering, Embedded Systems, Systems Programming, Information Systems, Data Structures & Algorithms, Computer Architecture
+- Graduate: ML System Co-Design, Applications of ML and Explainable AI, Data Mining, Computer Networks
+- Undergraduate: Compilers, Operating Systems, Analysis of Algorithms, Cloud Computing, Software Engineering, Embedded Systems, Systems Programming, Information Systems, Data Structures & Algorithms, Computer Architecture
 
 ### ⚽ Outside of Tech
 
@@ -91,9 +92,9 @@ Here are some ideas to get you started:
 * Frontend Developer (`Fall 2023 ~ Spring 2024`)
 * Backend Developer (`Fall 2020 ~ Spring 2021`) -->
 
-<!-- ### 🎓 Education
-* M.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2026.08 ~ 2027.12`)
-* B.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ 2026.05`) -->
+### 🎓 Education
+* M.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2026.08 ~ 2027.05`)
+* B.S. in [Computer Science](https://www.cs.purdue.edu/) @ Purdue University, West Lafayette, IN, USA (`2020.08 ~ 2026.05`)
 
 [0]: https://youngjunyoo.com
 
