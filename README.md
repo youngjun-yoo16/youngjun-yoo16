@@ -79,8 +79,8 @@ Here are some ideas to get you started:
 
 ### 📚 Relevant Coursework
 
-- Graduate: ML System Co-Design, Applications of ML and Explainable AI, Data Mining, Database Systems, Computer Networks
-- Undergraduate: Compilers, Operating Systems, Analysis of Algorithms, Cloud Computing, Software Engineering, Embedded Systems, Systems Programming, Information Systems, Data Structures & Algorithms, Computer Architecture
+- `Graduate`: ML System Co-Design, Applications of ML and Explainable AI, Data Mining, Database Systems, Computer Networks
+- `Undergraduate`: Compilers, Operating Systems, Analysis of Algorithms, Cloud Computing, Software Engineering, Embedded Systems, Systems Programming, Information Systems, Data Structures & Algorithms, Computer Architecture
 
 ### ⚽ Outside of Tech
 
